@@ -1,0 +1,13 @@
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.exe
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.deps.json
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.runtimeconfig.json
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.runtimeconfig.dev.json
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.dll
+C:\Users\vince\DNADropperBot\DNADropperBot\bin\Debug\netcoreapp3.1\DNADropperBot.pdb
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.csprojAssemblyReference.cache
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.AssemblyInfoInputs.cache
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.AssemblyInfo.cs
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.csproj.CoreCompileInputs.cache
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.dll
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.pdb
+C:\Users\vince\DNADropperBot\DNADropperBot\obj\Debug\netcoreapp3.1\DNADropperBot.genruntimeconfig.cache
